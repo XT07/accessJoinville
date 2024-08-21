@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: rgb(97, 212, 44);
+    padding: 30px 0px 30px 0px;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+h1 {
+    margin: 20px 0px 20px 0px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    text-indent: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+.col {
+    width: 33.3%;
+    float: left;
+    margin: auto;
+}
+
+.col p {
+    padding: 0px 10px 0px 10px;
+}
+
+hr {
+    border: 1px solid black;
+    margin: 20px 0px 20px 0px;
+}
+
+img {
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 8px;
+}
+
+h2 {
+    margin: 10px 0px 10px 0px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    margin: 10px 0px 10px 0px;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px 10px 0px 10px;
+}
+
+.avaliations {
+    background-color: whitesmoke;
+    padding: 0px 30px 20px 30px;
+}
+
+.contact {
+    font-size: 20px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: rgb(16, 163, 16);
+}
+
+footer {
+    background-color: rgb(230, 230, 230);
+    padding: 20px;
+}
+
+.centerAll {
+    width: 50%;
+    margin: auto;
+}
